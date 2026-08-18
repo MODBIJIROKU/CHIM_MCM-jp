@@ -1,7 +1,7 @@
 # CHIM(AIagent) 3.2.4 MCM 日本語化
 
-CHIM(AIagent) 3.2.4 用の MCM 日本語化ファイルです。  
-非公式の翻訳パッチです。
+CHIM(AIagent) 3.2.4 用の MCM 日本語化ファイルです
+非公式の翻訳パッチです
 
 ## 内容
 
@@ -12,13 +12,13 @@ CHIM(AIagent) 3.2.4 用の MCM 日本語化ファイルです。
 
 ### 方法1
 
-Scripts/AIAgentMCMConfigScript.pex を、CHIM(AIagent) 3.2.4 の同名ファイルへ上書きしてください。  
-上書き前にバックアップを推奨します。
+Scripts/AIAgentMCMConfigScript.pex を、CHIM(AIagent) 3.2.4 の同名ファイルへ上書きしてください
+上書き前にバックアップを推奨します
 
 ### 方法2
 
-AIAgentMCMConfigScript_pex_english_japanese.xml は xTranslator 用です。
-xTranslator を使用して、CHIM(AIagent) 3.2.4 の英語版 AIAgentMCMConfigScript.pex に適用してください。
+AIAgentMCMConfigScript_pex_english_japanese.xml は xTranslator 用です
+xTranslator を使用して、CHIM(AIagent) 3.2.4 の英語版 AIAgentMCMConfigScript.pex に適用してください
 
 ## 注意
 
@@ -30,5 +30,5 @@ xTranslator を使用して、CHIM(AIagent) 3.2.4 の英語版 AIAgentMCMConfigS
 元MOD: CHIM - Pair Any NPC（作者: rang97）  
 https://www.nexusmods.com/skyrimspecialedition/mods/126330
 
-本ファイルは、MCMメニューの非公式日本語翻訳です。  
-すべてのオリジナルアセットは rang97 氏に帰属します。
+本ファイルは、MCMメニューの非公式日本語翻訳です  
+すべてのオリジナルアセットは rang97 氏に帰属します
