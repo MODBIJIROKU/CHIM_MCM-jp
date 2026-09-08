@@ -8,11 +8,6 @@ CHIM(AIagent) MCM 日本語化ファイルを配布させて頂いています
 AIAgentMCMConfigScript_pex_english_japanese.xml は xTranslator 用です
 xTranslator を使用して、CHIM(AIagent) 英語版 AIAgentMCMConfigScript.pex に適用してください
 
-## 注意
-
-- 他バージョンには使用しないでください
-- どちらか一方の方法で使用してください
-
 ## クレジット
 
 元MOD: CHIM - Pair Any NPC（作者: rang97）  
