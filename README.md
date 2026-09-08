@@ -3,6 +3,12 @@
 CHIM(AIagent) MCM 日本語化ファイルを配布させて頂いています。
 非公式の翻訳パッチです
 
+## ダウンロード
+
+最新の配布ファイル（.zip）は、**ページの右側にある「Releases」** からダウンロードしてください。
+
+👉 [最新リリース](https://github.com/MODBIJIROKU/CHIM_3.2.4MCM-jp/releases)
+
 ## 使い方
 
 AIAgentMCMConfigScript_pex_english_japanese.xml は xTranslator 用です。
