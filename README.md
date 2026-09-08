@@ -1,6 +1,6 @@
 # CHIM(AIagent) MCM 翻訳ファイル
 
-CHIM(AIagent) MCM 日本語化ファイルを配布させて頂いています
+CHIM(AIagent) MCM 日本語化ファイルを配布させて頂いています。
 非公式の翻訳パッチです
 
 ## 使い方
